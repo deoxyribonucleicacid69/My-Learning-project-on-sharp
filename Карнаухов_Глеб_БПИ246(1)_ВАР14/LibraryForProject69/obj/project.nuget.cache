@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8dLdeFhDVs=",
+  "success": true,
+  "projectFilePath": "C:\\Games\\visual studio\\Карнаухов_Глеб_БПИ246(1)_ВАР14\\LibraryForProject69\\LibraryForProject69.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\pdfsharp-migradoc\\6.1.1\\pdfsharp-migradoc.6.1.1.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\pdfsharpcore\\1.3.65\\pdfsharpcore.1.3.65.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
